@@ -6,7 +6,7 @@ G가 listener 함수를 스토어에 등록
 
 스토어에서 state가 변경되면 listener 함수를 호출함
 
-![컴포넌트의 스토어 구독](C:\Users\multicampus\Desktop\컴포넌트의 스토어 구독.png)
+![컴포넌트의 스토어 구독](.\img\컴포넌트의 스토어 구독.png)
 
 
 
@@ -14,7 +14,7 @@ G가 listener 함수를 스토어에 등록
 
 컴포넌트에서 특정 state의 값을 변경하려고 하는 경우
 
-![컴포넌트의 스토어 구독](C:\Users\multicampus\Desktop\스토어에 상태 변경하라고 알려주기.png)
+![컴포넌트의 스토어 구독](.\img\스토어에 상태 변경하라고 알려주기.png)
 
 #### 
 
